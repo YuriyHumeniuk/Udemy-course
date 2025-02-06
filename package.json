@@ -7,9 +7,6 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
-
-  "dependencies": {},
-  "devDependencies": {}
-
+  "type": "module",
+  "description": ""
 }
