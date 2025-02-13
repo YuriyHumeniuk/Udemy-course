@@ -8,5 +8,5 @@ function isStringBlank (str) {
     }
 }
 
-isStringBlank("lb bl")
+isStringBlank("Yuriy ")
  
