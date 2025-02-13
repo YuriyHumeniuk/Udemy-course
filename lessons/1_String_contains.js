@@ -7,4 +7,4 @@ function stringScan (str, searchedSymbol) {
     }
 }
 
-stringScan("1@qAz)", "<")
+stringScan("1@qAz)", ")")
